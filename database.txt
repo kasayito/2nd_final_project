@@ -1,0 +1,7 @@
+
+Athlete Database [athlete name] [weight] [height]
+name athlete 60 170
+athlete name 55 165
+
+Fighter Database [athlete name] [weight] [height] [reach] [record] [fight rule]
+fighter name 55 170 175 32 boxing
